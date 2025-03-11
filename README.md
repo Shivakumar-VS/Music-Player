@@ -1,2 +1,3 @@
 <h2>Music Player</h2>
-![Image](https://github.com/user-attachments/assets/0441c7b0-a5b5-450e-af58-4ea69d0df0d5)
+
+![Image](https://github.com/user-attachments/assets/64fee516-e009-4096-a9d4-bfc67fc333df)
